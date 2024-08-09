@@ -18,7 +18,7 @@
 
 <h1 align="center">Software "-ilities"</h1>
 
-> ![NOTE]
+> [!NOTE]
 > We based this repository on an article we wrote on Medium titled [Understanding Software “-ilities”: Key Attributes of Quality Software](https://medium.com/@scottgrivner/understanding-software-ilities-key-attributes-of-quality-software-d4b7fadc9bbe).
 
 In [software engineering](https://en.wikipedia.org/wiki/Software_engineering), **"-ilities"** refer to a wide range of [attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes) that determine the quality, performance, and maintainability of software systems.
@@ -51,7 +51,7 @@ ex.
 4. Usability
 5. Availability
 
-> ![NOTE]
+> [!NOTE]
 > Over time, we will add descriptions and the importance of each **-ility**.
 > For now, consult our Medium article [here](https://medium.com/@scottgrivner/understanding-software-ilities-key-attributes-of-quality-software-d4b7fadc9bbe).
 

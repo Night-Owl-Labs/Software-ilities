@@ -1,7 +1,7 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://github.com/Night-Owl-Labs/SOLID-Principles" target="_blank">
+    <a href="https://github.com/Night-Owl-Labs/Software-ilities" target="_blank">
         <img src="./docs/images/icon.png" width="200" height="200"/>
     </a>
 </div>
@@ -17,6 +17,12 @@
 ---------------
 
 <h1 align="center">Software "-ilities"</h1>
+
+<div align="center">
+    <a href="https://github.com/Night-Owl-Labs/Software-Principles-Series" target="_blank">
+        <img src="./docs/images/series.png" width="500" />
+    </a>
+</div>
 
 > [!NOTE]
 > We based this repository on an article we wrote on Medium titled [Understanding Software “-ilities”: Key Attributes of Quality Software](https://medium.com/@scottgrivner/understanding-software-ilities-key-attributes-of-quality-software-d4b7fadc9bbe).
